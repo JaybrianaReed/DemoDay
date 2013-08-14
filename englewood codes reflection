@@ -6,21 +6,21 @@
     
       <title>Englewood codes reflection</title>
       
+      <link rel="stylesheet" type="text/css" href="bootstrap.css>
+      
       <link rel="stylesheet" type="text/css" href="style.css>
-      
-      
       
       </head>
       
       <body>
       
-        <div class="page-header">
+        <div align="center" class="container">
         
-          <h1>Englewood codes reflection>
+          <h1>Englewood codes reflection</h1>
           
       </div>
       
-      <div class="container">
+      <div align="center" class="container">
 
       <div class="navbar">
 
@@ -41,7 +41,14 @@
         </div>
 
       </div>
+      
+    <div align="center" class="container">
     
+     <p>When i first joined Englewood codes i knew it was going to be interesting. I have learned a lot about html,JavaScript,css and bootstrap 2 & 3.Englewood Codes is a very good program for students that want to learn how to code very well. I have had a lot of fun times in Englewood Codes.I also enjoy Leadership we get to discuss a lot of good and bad things about Englewood and whatwe think about our own community.I have met a lot of nice people in this program as well. Englewood Codes have taught me a lot throughout this program.</p>
+     
+     <div align="center" class="container"></div>
+     
+     </div>
   
   </body>
 
