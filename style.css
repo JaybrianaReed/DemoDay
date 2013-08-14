@@ -1,11 +1,11 @@
 @import url(bootstrap.css);
 
 body {
-    background-color: Yellow;
+    background-color: Pink;
 }
 
 .container {
-         background-color: Yellow;
+         background-color: LawnGreen;
 }
 
 .navbar-inner {
@@ -45,7 +45,7 @@ body {
 
  {
 border-style:solid;
-border-color:blue;
+border-color:pink;
 
 
 
